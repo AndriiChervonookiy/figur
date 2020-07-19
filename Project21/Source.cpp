@@ -99,7 +99,7 @@ int main()
 	for (int k = 0; k < 4; k++) {
 		figur[k]->S();
 	}
-
+	cout << "комм";
 	system("pause");
 	return 0;
 }
